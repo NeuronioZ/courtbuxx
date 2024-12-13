@@ -39,7 +39,7 @@ const jsonMessage1 = {
         {
             "title": "🎪 │ **Guia de Como Comprar**",
             "description": "**🎈 Compras de Robux:**\n- Para mais informações, acesse o canal: [Como Comprar](https://discord.com/channels/1187947032183308389/1218036193195724851)\n- Preços? Não se preocupe, temos uma lista bem aqui: [Lista de Preços](https://discord.com/channels/1187947032183308389/1271254027887186001)\n- E por fim, onde comprar? Acesse e abra um ticket em: [Robux](https://discord.com/channels/1187947032183308389/1270156264910880848)\n\n**🎈 Compras de Gamepass de Jogos:**\n- Acesse o canal respectivo de sua gamepass para fazer a compra.\n- Não achou o canal do jogo que gostaria? Acesse a aba: [Outros Jogos](https://discord.com/channels/1187947032183308389/1271258269305802774)",
-            "color": 9445686,
+            "color": 4d4398,
         }
     ],
 };
@@ -49,7 +49,7 @@ const jsonMessage2 = {
         {
             "title": "🎪 │**Prazos de Entrega** ",
             "description": "**🎈 Compras de Robux:**\n- 3 dias para entregas após a confirmação da compra dos robux.\n- De **1 à 2 dias** para aparecer nos pendentes do roblox após confirmação de entrega em: [Entregue](https://discord.com/channels/1187947032183308389/1245079971857432688)\n- Até **5 à 7 dias** para ser creditado na conta após estar nos [pendentes](https://www.roblox.com/transactions)",
-            "color": 9445686,
+            "color": #4d4398,
         }
     ],
 };
@@ -59,7 +59,7 @@ const jsonMessage3 = {
         {
             "title": "🎪 │**Taxa** ",
             "description": "**🎈 Sobre a Taxa do Roblox:**\n- O Roblox aplica uma taxa de **30%** sobre o valor total de cada compra.\n- Por exemplo, ao comprar **1.000 Robux**, você precisa criar um passe de **1.429 Robux** para que, após a dedução da taxa, receba o valor desejado.\n- **Cobrimos essa taxa** sem custo adicional para você! Você não precisa se preocupar em ajustar os valores de seus passes.\n\n[Saiba mais aqui.](https://create.roblox.com/docs/pt-br/production/monetization/game-passes)",
-            "color": 9445686,
+            "color": #4d4398,
         }
     ],
 };
